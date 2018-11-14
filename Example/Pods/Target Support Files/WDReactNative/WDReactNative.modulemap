@@ -1,0 +1,6 @@
+framework module WDReactNative {
+  umbrella header "WDReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}

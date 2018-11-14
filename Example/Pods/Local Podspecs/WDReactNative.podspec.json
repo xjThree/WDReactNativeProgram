@@ -1,0 +1,22 @@
+{
+  "name": "WDReactNative",
+  "version": "0.1.0",
+  "summary": "A short description of WDReactNative.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xjThree/WDReactNative",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xjThree": "xj250323489@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xjThree/WDReactNative.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WDReactNative/Classes/**/*"
+}
