@@ -1,6 +1,0 @@
-framework module Pods_WDReactNative_Example {
-  umbrella header "Pods-WDReactNative_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}
